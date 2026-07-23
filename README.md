@@ -1,5 +1,5 @@
 # DevOps Capstone Project
-This Capstone Project is for the IBM DevOps and Software Engineering program. 
+This Capstone Project is for the IBM DevOps and Software Engineering program.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
