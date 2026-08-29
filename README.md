@@ -1,4 +1,7 @@
 # DevOps Capstone Project
+
+![Build Status](https://github.com/Ayci1/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This Capstone Project is for the IBM DevOps and Software Engineering program. This project is a microservice that reads, updates, and deletes accounts from a database.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
